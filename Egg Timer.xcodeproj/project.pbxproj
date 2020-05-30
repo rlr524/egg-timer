@@ -76,9 +76,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ADF037E922D332A800A69E9A /* EggTimer */ = {
+		ADF037E922D332A800A69E9A /* Egg Timer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ADF037FE22D332AD00A69E9A /* Build configuration list for PBXNativeTarget "EggTimer" */;
+			buildConfigurationList = ADF037FE22D332AD00A69E9A /* Build configuration list for PBXNativeTarget "Egg Timer" */;
 			buildPhases = (
 				ADF037E622D332A800A69E9A /* Sources */,
 				ADF037E722D332A800A69E9A /* Frameworks */,
@@ -88,7 +88,7 @@
 			);
 			dependencies = (
 			);
-			name = EggTimer;
+			name = "Egg Timer";
 			productName = EggTimer;
 			productReference = ADF037EA22D332A800A69E9A /* Egg Timer.app */;
 			productType = "com.apple.product-type.application";
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = ADF037E522D332A800A69E9A /* Build configuration list for PBXProject "EggTimer" */;
+			buildConfigurationList = ADF037E522D332A800A69E9A /* Build configuration list for PBXProject "Egg Timer" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ADF037E922D332A800A69E9A /* EggTimer */,
+				ADF037E922D332A800A69E9A /* Egg Timer */,
 			);
 		};
 /* End PBXProject section */
@@ -327,7 +327,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ADF037E522D332A800A69E9A /* Build configuration list for PBXProject "EggTimer" */ = {
+		ADF037E522D332A800A69E9A /* Build configuration list for PBXProject "Egg Timer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ADF037FC22D332AD00A69E9A /* Debug */,
@@ -336,7 +336,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ADF037FE22D332AD00A69E9A /* Build configuration list for PBXNativeTarget "EggTimer" */ = {
+		ADF037FE22D332AD00A69E9A /* Build configuration list for PBXNativeTarget "Egg Timer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ADF037FF22D332AD00A69E9A /* Debug */,
